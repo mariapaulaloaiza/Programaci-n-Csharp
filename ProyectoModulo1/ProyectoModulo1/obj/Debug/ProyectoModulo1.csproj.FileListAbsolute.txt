@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\bin\Debug\ProyectoModulo1.exe.config
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\bin\Debug\ProyectoModulo1.exe
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\bin\Debug\ProyectoModulo1.pdb
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.InicioForm.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.JuegoForm.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.RegistroForm.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.exe
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.pdb
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.Llamada.resources
+C:\Users\Usuario\source\repos\ProyectoModulo1\ProyectoModulo1\obj\Debug\ProyectoModulo1.finalJuego.resources
